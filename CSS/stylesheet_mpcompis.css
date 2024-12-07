@@ -1,0 +1,40 @@
+.sidebar{ 
+height: 100%;
+width: 10vw; 
+margin: 0 ; 
+left: 0;
+position: fixed; 
+z-index: 1;
+top: 0;
+background-color: lemonchiffon;
+
+} 
+
+.body{ 
+   margin-left: 10.5vw; 
+} 
+.margin1{  
+    font-size: 150%;
+    margin-left: 1vw;
+    font-size: 110%; 
+    padding-right: 5vw;
+
+}  
+
+.container1{ 
+ display: flex;  
+gap: 40vw; 
+align-items: center; 
+height: fit-content; 
+width: fit-content;
+}
+ 
+table, td, th{ 
+
+    vertical-align: right;
+    border: 1px solid; 
+    border-collapse: collapse;
+} 
+td{ 
+    padding: 5px;
+}

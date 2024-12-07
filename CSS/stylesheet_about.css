@@ -1,0 +1,34 @@
+.sidebar{ 
+    height: 100%;
+    width: 10vw; 
+    margin: 0 ; 
+    left: 0;
+    position: fixed; 
+    z-index: 1;
+    top: 0;
+    background-color: lemonchiffon;
+    
+    } 
+
+
+.body{ 
+        margin-left: 10.5vw; 
+ }  
+
+ .vertcontainer1{ 
+
+    display: flex;  
+    flex-direction: column;
+    align-items: center;   
+    vertical-align: middle; 
+    justify-content: center; 
+    max-width: fit-content; 
+    
+}  
+.container1{ 
+
+    display: flex;  
+
+       gap: 40vw;
+       align-items: center;
+}

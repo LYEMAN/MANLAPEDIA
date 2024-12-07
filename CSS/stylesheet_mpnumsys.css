@@ -1,0 +1,89 @@
+.sidebar{ 
+    height: 100%;
+    width: 10vw; 
+    margin: 0 ; 
+    left: 0;
+    position: fixed; 
+    z-index: 1;
+    top: 0;
+    background-color: lemonchiffon;
+    
+    } 
+
+
+.body{ 
+        margin-left: 10.5vw; 
+ }  
+
+ .v1{ 
+border-left: 4px solid black; 
+height: 60vw; 
+position: absolute; 
+left: 54.5%; 
+margin-left: -3px; 
+top: 10vw;
+
+ }
+
+.container1{    
+  
+     display: flex;  
+     margin-top: 2.5vw;
+        margin-left: 5vw; 
+        gap: 20vw;
+        align-items: center;
+       
+    
+}    
+
+.container2{ 
+    display: flex;  
+     margin-top: 2.5vw;
+        margin-left: 5vw; 
+        gap: 20vw;
+        align-items: center;
+ 
+  
+}  
+
+.vertcontainer1{ 
+
+    display: flex;  
+    flex-direction: column;
+    align-items: center;   
+    vertical-align: middle; 
+    justify-content: center; 
+    max-width: fit-content; 
+    
+} 
+
+.vertcontainer2{ 
+
+    display: flex;  
+    flex-direction: column;
+    align-items: center;   
+    vertical-align: middle; 
+    justify-content: center; 
+    max-width: fit-content;
+}
+ 
+.vertcontainer3{ 
+
+    display: flex;  
+    flex-direction: column;
+    align-items: center;   
+    vertical-align: middle; 
+    justify-content: center; 
+    max-width: fit-content;
+}
+
+.vertcontainer4{ 
+
+    display: flex;  
+    flex-direction: column;
+    align-items: center;   
+    vertical-align: middle; 
+    justify-content: center; 
+    max-width: fit-content;
+}
+
